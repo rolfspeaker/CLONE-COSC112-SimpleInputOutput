@@ -4,7 +4,7 @@ public class SimpleInputOutput {
         System.out.println("Hello, world!");
         System.out.println("My name is Ayo Odusanya.");
         System.out.println("I am a Computer Science major at Bowie State University.");
-        System.out.println("My favorite movie is \"Inglorious Bast*rds\".");
+        System.out.println("My favorite movie is between \"Inglorious Bast*rds\" and \"Mudbound\".");
         System.out.println("The quote of the day is from St. Thomas Aquinas: \"There is nothing on this earth more to be prized than true friendship.\"");
         
         Scanner input_listener = new Scanner(System.in);
